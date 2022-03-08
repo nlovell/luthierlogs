@@ -1,4 +1,4 @@
-# Luthier Logs 
+# Luthier Logs
 
 - [Luthier Logs](#luthier-logs)
   - [About](#about)
@@ -24,4 +24,3 @@ This project was inspired by a scrap piece of wood I found on my walk into work 
 ## Other Builds
 
 ### Arduino Pickup Winder
-

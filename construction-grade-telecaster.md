@@ -16,6 +16,10 @@ My first guitar, and an absolute learning experience. There have been many mista
     - [LX: I didn't seal the OSB](#lx-i-didnt-seal-the-osb)
     - [LX: Uneven Layer](#lx-uneven-layer)
   - [Regarding Leg Holes](#regarding-leg-holes)
+  - [Finding the Centre Line: The Theory](#finding-the-centre-line-the-theory)
+  - [Finding the Centre Line: In Reality](#finding-the-centre-line-in-reality)
+
+_As ever, LX represents a Learning Experience... Or a mistake. Whatever you want to call it, I'll write about how I'd consider doing it next time._
   
 ## The Beginning
 
@@ -26,7 +30,8 @@ After many joking discussions with my friend about an OSB guitar, on the merit o
 As it happened, this piece of `unknown wood` was millimetre perfect to turn into a Telecater. Some may call it fate, and I found myself compelled to answer it's call. This Telecaster was _begging_ to be released from it's chair-y prison.
 
 By this point, the only plan was as follows:
-```
+
+``` none
 Chair Body
 OSB Top
 Maple Neck
@@ -62,7 +67,6 @@ At this point, I made a quick mockup in Photoshop, based on another OSB Tele I f
 
 ![OSB Tele Mockup](cgtele/photoshopdraft.jpg)
 
-
 The current vision stands as follows:
 
 ``` none
@@ -89,7 +93,6 @@ At this point, the aim was to cut the majority of wood within the thick black li
 ![Roughcut Guitar Body](cgtele/roughcut1.jpg)
 
 Once the bulk of the material was removed, I proceeded with a flap-disc sanding attachment on a drill to bring the frankly ugly cuts up to the line. You can see on the lower horn where I was slightly too liberal with my usage of the flap-disc sander, and accidentally ate too far into the piece. This mistake will be fixed with resin later on.
-
 
 ![Roughcut Guitar Body 2](cgtele/roughcut2.jpg)
 
@@ -122,7 +125,6 @@ I filled the bottom bonding surface of the OSB with wood filler, but since have 
 
 ## Shaping the Body - Part 2: Baby's First Router
 
-
 I've never worked with a router before, so this was new grounds for me. I ended up buying a cheap hand router from Facebook Marketplace for £15. I also acquired a flushcut trim bit from Toolstation to process the bulk of this. I used this to rip through the OSB and get the shape somewhat close to the final form.
 
 ![Body Shaping 2](cgtele/shaping2-tools.jpg)
@@ -148,6 +150,9 @@ Firstly I sealed the edge of the guitar with aluminium tape to prevent leakage. 
 
 ![Foil Tape](cgtele/foiltape2.jpg)
 
+For yet another first in this project, I'm not too displeased with the result. It definitely needs a bunch of sanding to make it flat and even, but that shouldn't be too difficult. I'll take the majority of the resin off with 120 grit, then polish it down through the grits up to about 600ish to prep it for a clear lacquer.
+
+![Resin'd Up](cgtele/resincoat.jpg)
 
 ### LX: I didn't seal the OSB
 
@@ -162,3 +167,13 @@ I was expecting this. I did not level my worksurface, so the resin naturally flo
 ## Regarding Leg Holes
 
 I intend on punching straight through the leg holes and including them in the overall profile of the Telecaster. It's part of it's story, with it being a chair - and I think it'll look cute. I have no further justification for this, aside _it's my project_. I don't need any further justification.
+
+## Finding the Centre Line: The Theory
+
+The workpiece is not even, I know that for a fact. It also means there's no easily definable centre line. What I intend on doing is finding "vertically equivalent" points at multiple points across the Tele (represented in Red), and drawing a line between them (Green). Then after finding the midpoint of each of those lines (Black), I should have a scatter-graph of sorts showing an approximate centre line. I'll average all of those for what I shall consider the Centre Line of this guitar (White).
+
+![Approximate Centre Line](cgtele/centreline-technique.jpg)
+
+_There is almost certainly a better method for this._
+
+## Finding the Centre Line: In Reality
