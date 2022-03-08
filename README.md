@@ -7,7 +7,7 @@
 
 ## About
 
-This repo aims to serve as a documentation of my various guitar-build projects.
+This repo aims to serve as a documentation of my various guitar-build projects. Any sections subheaded with `LX` represent a Learning Experience - or rather, how I recognise I did something wrong, and what I would try next time.
 
 ## Guitar Builds
 

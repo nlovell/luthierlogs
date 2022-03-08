@@ -12,6 +12,10 @@ My first guitar, and an absolute learning experience. There have been many mista
     - [LX: Wood Filler wasn't a good idea](#lx-wood-filler-wasnt-a-good-idea)
   - [Shaping the Body - Part 2: Baby's First Router](#shaping-the-body---part-2-babys-first-router)
     - [LX: Don't Abuse Your Router](#lx-dont-abuse-your-router)
+  - [Reinforcing the OSB with Resin](#reinforcing-the-osb-with-resin)
+    - [LX: I didn't seal the OSB](#lx-i-didnt-seal-the-osb)
+    - [LX: Uneven Layer](#lx-uneven-layer)
+  - [Regarding Leg Holes](#regarding-leg-holes)
   
 ## The Beginning
 
@@ -54,6 +58,11 @@ Pickup Covers:  Black and yellow stripes
        Bridge:  Bigsby-style tremolo
 ```
 
+At this point, I made a quick mockup in Photoshop, based on another OSB Tele I found online:
+
+![OSB Tele Mockup](cgtele/photoshopdraft.jpg)
+
+
 The current vision stands as follows:
 
 ``` none
@@ -73,13 +82,13 @@ The CGTele will be - as much as possible - manufactured by me.
 
 ## Shaping the Body - Part 1: Mostly Handsaws
 
-Equipped with very few tools myself, I visited a friend to raid their shed for a few handtools. These were unideal, but we got the rough shape of the guitar cut out with an assortment of saws.
+Equipped with very few tools myself, I visited a friend to raid their shed for a few handtools. These were unideal, but I got the rough shape of the guitar cut out with an assortment of saws.
 
 At this point, the aim was to cut the majority of wood within the thick black line, while still leaving a notable amount of ink around the edges to file the shape back to. I wasn't too worried about the "relief holes" caused by the chair legs, as these would be covered by the classy top wood.
 
 ![Roughcut Guitar Body](cgtele/roughcut1.jpg)
 
-Once the bulk of the material was removed, I proceeded with a flap-disc sanding attachment on a drill to bring the frankly ugly cuts up to the line.
+Once the bulk of the material was removed, I proceeded with a flap-disc sanding attachment on a drill to bring the frankly ugly cuts up to the line. You can see on the lower horn where I was slightly too liberal with my usage of the flap-disc sander, and accidentally ate too far into the piece. This mistake will be fixed with resin later on.
 
 
 ![Roughcut Guitar Body 2](cgtele/roughcut2.jpg)
@@ -90,14 +99,19 @@ OSB is a terrible material to build a guitar out of. With that being said, I was
 
 ![OSB Top](cgtele/osbtop.jpg)
 
+I roughly cut this out to the shape of the Tele, but with plenty of leeway to account for innacurate placement, so I could clamp and glue it up without worrying too much about if it's a perfect match-up against the body shape.
+
+![OSB Top Trimmed](cgtele/osbtop-trimmed.jpg)
+
 ## Glue-up
 
-Now the body was (roughly) cut to shape, I had to adhere the top. At this point I learned you cannot have enough clamps. I made a few mistakes here, but only realised once it was too late.
+Now the body was (roughly) cut to shape, I had to adhere the top. At this point I learned you cannot have enough clamps. I made a few mistakes here, but only realised once it was too late. Smother the chair part with a _lot_ of yellow wood glue, and clamp it together with as many clamps as I could acquire that day. Which was only four.
 
 ![Clamped Glue-up](cgtele/clamped.jpg)
 
 ### LX: I did not have enough clamps
 
+I wish I had more.
 As a result of this, I used screws strategically placed under the scratchplate and neck, to try and create holes in places that will be eventually hidden. While this worked, I should have drilled pilot holes, as one of the screws I used caused the wood to split on the lower horn.
 
 ![Ruining the horn](cgtele/hornscrews.jpg)
@@ -108,15 +122,43 @@ I filled the bottom bonding surface of the OSB with wood filler, but since have 
 
 ## Shaping the Body - Part 2: Baby's First Router
 
-I've never worked with a router before, so this was new grounds for me. I ended up buying a cheap hand router from Facebook Marketplace for £15. I also acquired a flushcut trim bit from Toolstation to process the bulk of this.
+
+I've never worked with a router before, so this was new grounds for me. I ended up buying a cheap hand router from Facebook Marketplace for £15. I also acquired a flushcut trim bit from Toolstation to process the bulk of this. I used this to rip through the OSB and get the shape somewhat close to the final form.
 
 ![Body Shaping 2](cgtele/shaping2-tools.jpg)
+
+The next step was fixing the rough concave curves between the neck and the horns - I did this with a set of rasps and files, which cleaned up the majority of the shoddiness caused by the handsaw and flap-disc work.
+
+I'm still not 100% happy with this, but it's getting distinctly Telecasteresque! Here's the current state of it's front and back:
+
+![Routed 1](cgtele/routed1f.jpg)
+![Routed 1](cgtele/routed1b.jpg)
 
 ### LX: Don't Abuse Your Router
 
 While I wasn't injured by this tool, I certainly didn't treat it well. I accidentally burned out the bearing on my flushcut bit through though this, so probably should have taken a hacksaw or something to cut out the bulk of the material first. The blade is mostly fine, though, it just needs a new bearing on the shaft of the bit. Not the end of the world, by any rate.
 
-After the body was brought fairly close to it's final shape, 
+## Reinforcing the OSB with Resin
 
-![Routed 1](cgtele/routed1f.jpg)
-![Routed 1](cgtele/routed1b.jpg)
+Obviously, the OSB top would be a simply horrible playing surface. I can't think of anything I'd want to use less as a guitar top, except maybe a sandpaper veneer. The plan from the beginning was to flood the OSB with a clear resin, to fill in the holes with crystal clear fluid, and then sand it back to a thin-ish layer I can then lacquer with the rest of the body. This would give a great working surface, without ruining the look of the OSB.
+
+![Foil Tape](cgtele/foiltape.jpg)
+
+Firstly I sealed the edge of the guitar with aluminium tape to prevent leakage. This was relatively successful, though was a bit harder to remove than anticipated. I mixed the epoxy in a 1:1 ratio as per the bottle, poured it over the guitar and left it to cure for 2 days before touching it again. As the first coat was uneven, I mixed a small quantity and used it to patch the gaps, and left it again for two days to cure.
+
+![Foil Tape](cgtele/foiltape2.jpg)
+
+
+### LX: I didn't seal the OSB
+
+While I'm pretty pleased with my first-ever resin pour, I could have definitely done it better. The crisp black printed text leeched out into the resin, leaving it slightly blurry and leaving gross black particulates suspended in the resin. Now I know this, I would have tried to seal the guitar with either a lacquer or a very thin coat of resin to begin with.
+
+You can see a video of this effect [here](https://drive.google.com/drive/folders/1M1zi420xZQg2jCMDfvQJn6vOxKPnYqoc).
+
+### LX: Uneven Layer
+
+I was expecting this. I did not level my worksurface, so the resin naturally flowed to a flat plane... which left valleys and a generally uneven working surface. Next time I do a resin pour, I'll do it on a known-level surface, or create my own surface leveller with a sheet of plywood and some thumbscrews to adjust the corners.
+
+## Regarding Leg Holes
+
+I intend on punching straight through the leg holes and including them in the overall profile of the Telecaster. It's part of it's story, with it being a chair - and I think it'll look cute. I have no further justification for this, aside _it's my project_. I don't need any further justification.
