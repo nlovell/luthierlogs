@@ -2,9 +2,14 @@
 
 My first guitar, and an absolute learning experience. There have been many mistakes made, and many lessons learned. But - as I write this - it still looks promising. I can't wait to have finished my first guitar.
 
+> And the only way to begin is by beginning.
+
+_Sam Reich (2020)_.
+
 - [Construction-grade Telecaster](#construction-grade-telecaster)
   - [The Beginning](#the-beginning)
   - [Planning](#planning)
+  - [The Wrong Tools For The Right Job](#the-wrong-tools-for-the-right-job)
   - [Shaping the Body - Part 1: Mostly Handsaws](#shaping-the-body---part-1-mostly-handsaws)
   - [Acquiring The Top](#acquiring-the-top)
   - [Glue-up](#glue-up)
@@ -83,6 +88,13 @@ Pickup Covers:  Black and yellow stripes
 
 Eventually I plan on winding my own pickups and my own neck, and have already started planning for making my own Arduino-based pickup winder, but that'll be documented elsewhere in the future.
 The CGTele will be - as much as possible - manufactured by me.
+
+## The Wrong Tools For The Right Job
+
+Maybe this section is more of a conclusion, but I'll put it fairly up-front while it's on my mind; I did not have access to a proper set of tools for this. As the saying goes, _a good craftsman never blames his tools_, and I'm not - simply acknowledging that I've done my best in spite of using many wrong tools, techniques, and practices. A trial by fire, as it were; learning on the job.
+
+In time, I aspire to learn every facet of lutherie - how to design, build, and finish a guitar from scratch. I find the artistry fascinating, and the technicalities of manufacture has always enticed me. So, what better way to start than by getting stuck in?
+
 
 ## Shaping the Body - Part 1: Mostly Handsaws
 
